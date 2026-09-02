@@ -85,18 +85,13 @@ A web development project focused on creating a modern web-based experience.
   - Infosys
   - August 2026
 
----
-
-## 📊 GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekKoundal9&show_icons=true&theme=github_dark)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **Add your LinkedIn URL here**
-- 🐙 GitHub: [AbhishekKoundal9](https://github.com/AbhishekKoundal9)
+- 💼 LinkedIn: https://www.linkedin.com/in/koundal-abhishek/
+- 🐙 GitHub: https://github.com/AbhishekKoundal9
 
 ---
 
